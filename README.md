@@ -1,2 +1,2 @@
 # Editor-de-texto
-Editor sencillo en java con swing
+Editor de texto en java con swing.
